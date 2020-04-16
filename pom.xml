@@ -16,6 +16,13 @@
 	<description>SFG Brewery</description>
 
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<compiler.version>11</compiler.version>
+		<compiler.encoding>UTF-8</compiler.encoding>
+
 		<java.version>11</java.version>
 	</properties>
 
